@@ -1,2 +1,2 @@
-# Splash-One-Onshape-Things-
-All of my Onshape work for SplashOne is in this repository. 
+# Onshape-Things-
+All of my Onshape work is in this repository. 
